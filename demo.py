@@ -12,3 +12,5 @@ else:
 print('Завершено')
 # Это последнее выражение выполняется всегда после выполнения оператора if
 print(asfgfhjk)
+print(asfgfhjk)
+print(asfgfhjk)
